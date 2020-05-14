@@ -12,7 +12,7 @@ Make sure you download the original version of Helix. Modify sh_anims for your a
 
 Animations for /most/ models is possible. It should be noted that Male Models pack, and the Redux/LL Redux/Exodus pack seem to not like to function with Helix (IX).
 
-This Helix (IX) Gamemode was developed by: Dunkersplay Bentley
+This Helix (IX) Gamemode was developed by: Dunkersplay, Bentley, Sir Rodrick, Gary Tate
 
 This Helix (IX) Gamemode was tested by: Mec Ironical PirateDavey Efkanator Hood Weenie The Poo Coroneljones Molotoff FreeStylaLT Rey Comfy Seb
 
